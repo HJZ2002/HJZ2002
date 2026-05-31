@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif" alt="coding gif" />
-</div>
-# 💫 About Me:
+💫 About Me:
 🔨 I'm currently building and working on personal front-end projects using HTML, CSS, JavaScript, and React to sharpen my skills and build a stronger portfolio<br>
 👥 I'm looking to collaborate on web apps, UI/UX redesigns, or any open source front-end project involving HTML, CSS, JavaScript, and React React.js React Native where I can contribute through both design and functionality<br>
 🤝 I'm looking for help with landing my first professional role in front-end development and getting industry-level feedback on my projects<br>
