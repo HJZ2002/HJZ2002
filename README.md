@@ -1,4 +1,3 @@
-
 💫 About Me:
 🔨 I'm currently building and working on personal front-end projects using HTML, CSS, JavaScript, and React to sharpen my skills and build a stronger portfolio<br>
 👥 I'm looking to collaborate on web apps, UI/UX redesigns, or any open-source front-end project involving HTML, CSS, JavaScript, and React where I can contribute through both design and functionality<br>
