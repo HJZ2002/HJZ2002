@@ -23,9 +23,6 @@
 <table>
   <tr>
     <td>
-
-![HJZ2002's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HJZ2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
 </td>
     <td>
       <img src="./coding.gif" alt="coding gif" width="350" />
