@@ -20,14 +20,8 @@
 
 [![](https://komarev.com/ghpvc/?username=HJZ2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<table>
-  <tr>
-    <td>
-</td>
-    <td>
-      <img src="./coding.gif" alt="coding gif" width="350" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./coding.gif" alt="coding gif" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
