@@ -17,5 +17,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=HJZ2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Banner](animesher.com_code-computer-html-197855)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
