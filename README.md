@@ -4,7 +4,7 @@
 👥 I'm looking to collaborate on web apps, UI/UX redesigns, or any open-source front-end project involving HTML, CSS, JavaScript, and React where I can contribute through both design and functionality<br>
 🤝 I'm looking for help with landing my first professional role in front-end development and getting industry-level feedback on my projects<br>
 🌱 I'm currently learning React, TypeScript, Next.js, Android Studio for Mobile Development, and Canva & Figma for UI/UX<br>
-💬 Ask me about building browser games in vanilla JS, front-end development, mobile app development with Android Studio, or my AI thesis project AutoVision<br>
+💬 Ask me about building browser games in vanilla JS, front-end development, mobile app development with Android Studio, solving coding problems, or my AI thesis project AutoVision<br>
 ⚡ Fun fact: I graduated Cum Laude in Computer Science and built a working AI-powered car damage estimator as my thesis!
 
 ## 🌐 Socials:
