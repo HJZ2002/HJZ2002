@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./coding.gif" alt="coding gif" />
-</div>
+
 💫 About Me:
 🔨 I'm currently building and working on personal front-end projects using HTML, CSS, JavaScript, and React to sharpen my skills and build a stronger portfolio<br>
 👥 I'm looking to collaborate on web apps, UI/UX redesigns, or any open source front-end project involving HTML, CSS, JavaScript, and React React.js React Native where I can contribute through both design and functionality<br>
@@ -18,6 +16,21 @@
 ![](https://github-readme-stats.shion.dev/api?username=HJZ2002&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=HJZ2002&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=HJZ2002&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<table>
+  <tr>
+    <td>
+
+![HJZ2002's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HJZ2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+</td>
+    <td>
+      <img src="./coding.gif" alt="coding gif" width="350" />
+    </td>
+  </tr>
+</table>
+
 
 [![](https://komarev.com/ghpvc/?username=HJZ2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
