@@ -5,7 +5,7 @@
 🤝 I'm looking for help with landing my first professional role in front-end development and getting industry-level feedback on my projects<br>
 🌱 I'm currently learning React, TypeScript, Next.js, Android Studio for Mobile Development, Canva & Figma for UI/UX<br>
 💬 Ask me about building browser games in vanilla JS, front-end development, mobile app development with Android Studio, solving coding problems, or my AI thesis project AutoVision<br>
-⚡ Fun fact I graduated Cum Laude in Computer Science and together with my 2 thesis teammates, we built a working AI-powered car damage estimator!
+⚡ Fun fact I graduated Cum Laude in Computer Science and together with my 2 thesis teammates, we built AutoVision a working mobile app that estimates car damage using YOLOv8!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hoseajameszacarias/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/isakiriona09/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hosea-zacarias-478504231/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://ph.pinterest.com/zaccariah23/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@ashenhalo_) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hoseajameszacarias@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://hjz2002.github.io/My-Website/)
